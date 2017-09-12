@@ -3,7 +3,7 @@ A collection of resources, exercises, and challenges on a number of topics to be
 
 ## Why
 
-Dev Fundamentals were started at Nascent to foster cross-collaboration between all developers for the purpose of solidifying our understanding of fundamental topics that are important for software development.
+Dev Fundamentals was started at Nascent to foster cross-collaboration between all developers for the purpose of solidifying our understanding of fundamental topics that are important for software development. It is not meant to be a cheat sheet with quick answers and summaries but rather a tool to assist with critical thinking and problem solving while encouraging teamwork. Have a solution? Discuss openly with any dev!
 
 ## What
 
@@ -13,7 +13,6 @@ An emphasis will be put on the underlying mechanics of software development.
 
 - [Session Archive](sessions/)
 - [Topics](topics/)
-- [Exercise Questions](questions/)
 
 ## How
 
@@ -24,5 +23,3 @@ A Public Github repository, with Markdown articles as content, (using the reposi
 - version tracking, and usage of github git gui features 
 - publish into a static website using Github Pages
 - leverage branch locking and other Github features only available in content repos
-
-The format should follow [this template](.template.md)
