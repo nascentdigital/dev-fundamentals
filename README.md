@@ -13,6 +13,8 @@ An emphasis will be put on the underlying mechanics of software development.
 
 - [Session Archive](archive/sessions.md)
 - [Topics](topics/)
+- [Library to share](library.md)
+
 
 ## How
 
