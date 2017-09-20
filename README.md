@@ -12,7 +12,7 @@ An emphasis will be put on the underlying mechanics of software development.
 ### Table of Content
 
 - [Sessions Archive](archive/sessions.md)
-- [Great Resources](library.md)
+- [Recommended Resources](library.md)
 
 
 ## How
