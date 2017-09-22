@@ -6,4 +6,5 @@
 + [2017.08.11 - Toolbox Access in O(1)](2017.08.11.md)
 + [2017.08.25 - Create a Cache](2017.08.25.md)
 + [2017.09.08 - Singly, Doubly, and Circular Linked Lists](2017.09.08.md)
++ [2017.09.22 - Sorting Arrays](2017.09.22.md)
 
