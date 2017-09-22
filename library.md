@@ -1,13 +1,13 @@
 # Great recommended resources
 
-Keep in mind that there are three crucial ingredients to learning and growing as a developer:
+Keep in mind that there are three important components to learning and growing as a developer:
 + self study
 + practice
 + learning from others
 
 ### Self Study Resources
 
-Have any to recommend? Let us know!
+Have any to recommend? Please let us know.
 
 #### Books
 Ask around the office and you are sure to find copies (or at least digital copies) of all of these resources.
